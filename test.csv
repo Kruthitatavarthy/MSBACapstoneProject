@@ -1,4 +1,4 @@
-week_number,time_peroid,sessions,actual_online_leads,test_drive_request,offer_request,total_configs_finished,keep_me_posted,dealer_locator
+week_number,time_period,sessions,actual_online_leads,test_drive_request,offer_request,total_configs_finished,keep_me_posted,dealer_locator
 80,8/7/2018,24420,61,38,23,2396,0,2464
 80,9/7/2018,28615,49,23,26,2713,0,3532
 80,10/7/2018,33702,85,52,33,3167,0,3752
